@@ -1,0 +1,9 @@
+/* Navigation.css */
+.navbar-nav li a {
+    transition: color 0.3s ease; /* Agrega una transición de color suave */
+  }
+  
+  .navbar-nav li a:hover {
+    color: #ff6600; /* Cambia el color al hacer hover */
+  }
+  

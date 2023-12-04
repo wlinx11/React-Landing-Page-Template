@@ -1,8 +1,20 @@
 import React from "react";
+import { useSpring, animated } from "@react-spring/web";
 
 export const Navigation = (props) => {
+  // Configura la animación de entrada para el menú
+  const menuAnimation = useSpring({
+    from: { opacity: 0, transform: "translateY(-20px)" },
+    to: { opacity: 1, transform: "translateY(0)" },
+    config: { duration: 800 },
+  });
+
   return (
-    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+    <animated.nav
+      id="menu"
+      className="navbar navbar-default navbar-fixed-top"
+      style={menuAnimation}
+    >
       <div className="container">
         <div className="navbar-header">
           <button
@@ -12,13 +24,13 @@ export const Navigation = (props) => {
             data-target="#bs-example-navbar-collapse-1"
           >
             {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
+            <span className="sr-only"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            Punto Pristíno
           </a>{" "}
         </div>
 
@@ -29,42 +41,42 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Habitaciones
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Nosotros
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Servicios
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Galeria
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                Testimonios
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                Experencias
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Contacto
               </a>
             </li>
           </ul>
         </div>
       </div>
-    </nav>
+    </animated.nav>
   );
 };

@@ -1,154 +1,154 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": " ",
+    "paragraph": " "
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En el Hotel Punto Pristíno, nos enorgullecemos de ser una obra maestra del lujo y la hospitalidad. Con una rica herencia de excelencia en el servicio y una ubicación privilegiada, somos el destino ideal para aquellos que buscan una experiencia exclusiva y sin igual.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experiencia de Lujo Inigualable",
+      "Ubicación Privilegiada",
+      "Servicio Personalizado 24/7",
+      "Amenidades de Clase Mundial"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Historia de Excelencia en la Hospitalidad",
+      "Compromiso con tu Privacidad",
+      "Gastronomía de Estrella Michelin",
+      "Exclusividad y Privilegios"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (1).jpeg",
+      "smallImage": "img/portfolio/habitacion (1).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (2).jpeg",
+      "smallImage": "img/portfolio/habitacion (2).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (3).jpeg",
+      "smallImage": "img/portfolio/habitacion (3).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (4).jpeg",
+      "smallImage": "img/portfolio/habitacion (4).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion.jpeg",
+      "smallImage": "img/portfolio/habitacion.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (6).jpeg",
+      "smallImage": "img/portfolio/habitacion (6).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (7).jpeg",
+      "smallImage": "img/portfolio/habitacion (7).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (8).jpeg",
+      "smallImage": "img/portfolio/habitacion (8).jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Hotel Punto Pristíno",
+      "largeImage": "img/portfolio/habitacion (5).jpeg",
+      "smallImage": "img/portfolio/habitacion (5).jpeg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Spa de Clase Mundial",
+      "text": " Un spa completo con una variedad de tratamientos de relajación, masajes y terapias de bienestar para rejuvenecer cuerpo y mente."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Restaurante Gourmet",
+      "text": "Un restaurante de alta cocina con un chef de renombre que ofrece una experiencia gastronómica excepcional."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Piscina Infinity",
+      "text": "Una piscina de borde infinito con vistas panorámicas impresionantes, ideal para relajarse y disfrutar del sol."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Gimnasio de Última Generación",
+      "text": "Gimnasio de Última Generación."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Servicio de Mayordomo",
+      "text": "Un mayordomo personalizado disponible las 24 horas para atender todas tus necesidades, desde desempacar el equipaje hasta hacer reservas especiales."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Concierge de Experiencias",
+      "text": "Un equipo de conserjes especializados en planificar actividades y excursiones personalizadas para que los huéspedes exploren la ciudad o la región circundante de manera única y exclusiva."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Israel Sennen Lagunas Ruiz"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Jorge Sanchez Vega"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Laura Nelly Alvarado Zamora"
     },
     {
       "img": "img/testimonials/04.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Miriam Zulma Sanchéz"
     },
     {
       "img": "img/testimonials/05.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Carrion Villamontes"
     },
     {
       "img": "img/testimonials/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Gabriela Lua Vargas"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Puesta de Sol en Oia",
+      "job": "Este encantador pueblo es famoso por sus impresionantes vistas al mar Egeo y sus icónicas casas blancas con cúpulas azules. La puesta de sol en Oia es mundialmente conocida y es un momento mágico para visitar."
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Akrotiri",
+      "job": "El sitio arqueológico de Akrotiri es una ventana a la antigua civilización minoica que fue enterrada por una erupción volcánica hace miles de años. Las excavaciones revelan calles, casas y artefactos increíblemente bien conservados."
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Playa Red Beach (Playa Roja)",
+      "job": "Esta playa es famosa por su arena roja y las espectaculares formaciones rocosas que la rodean. Es un lugar único para relajarse, nadar y tomar fotografías impresionantes."
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Fira",
+      "job": "La capital de Santorini ofrece una mezcla de historia, cultura y vida nocturna. Puedes explorar calles adoquinadas, disfrutar de restaurantes con vistas a la caldera y visitar el Museo Arqueológico de Fira."
     }
   ],
   "Contact": {
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Privacidad Absoluta",
+      "text": "En el Hotel Punto Pristíno, tu privacidad es nuestra máxima prioridad. Nuestras suites están diseñadas para ofrecer la máxima discreción, y contamos con servicios de seguridad de élite para garantizar tu tranquilidad."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Experiencia Gastronómica Excepcional",
+      "text": "Nuestro hotel cuenta con un restaurante de renombre mundial que ofrece platos exquisitos preparados por chefs galardonados. Disfruta de una experiencia culinaria inigualable sin salir de las instalaciones."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Servicio Personalizado 24/7",
+      "text": "Nuestro hotel cuenta con un restaurante de renombre mundial que ofrece platos exquisitos preparados por chefs galardonados. Disfruta de una experiencia culinaria inigualable sin salir de las instalaciones."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Exclusividad en Ubicación",
+      "text": "El Hotel Punto Pristíno se encuentra en una ubicación privilegiada, con vistas panorámicas impresionantes y acceso exclusivo a playas, montañas o centros urbanos de primera clase, según tu elección. La ubicación única de nuestro hotel asegura experiencias excepcionales a tu alcance."
     }
   ]
 }

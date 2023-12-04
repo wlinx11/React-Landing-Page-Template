@@ -1,31 +1,41 @@
 import React from "react";
+import { useTrail, animated } from "@react-spring/web";
 
 export const Team = (props) => {
+  const touristSpots = props.data || [];
+
+  // Configura la animación para los puntos turísticos
+  const trail = useTrail(touristSpots.length, {
+    from: { opacity: 0, transform: "translateY(20px)" },
+    to: { opacity: 1, transform: "translateY(0)" },
+    config: { duration: 800 },
+  });
+
   return (
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Puntos Turisticos</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Descubre los puntos turísticos más emblemáticos que rodean nuestro hotel y sumérgete en la riqueza cultural de la región.
           </p>
         </div>
-        <div id="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
-                  <div className="thumbnail">
-                    {" "}
-                    <img src={d.img} alt="..." className="team-img" />
-                    <div className="caption">
-                      <h4>{d.name}</h4>
-                      <p>{d.job}</p>
-                    </div>
-                  </div>
+        <div className="row">
+          {trail.map((style, index) => (
+            <animated.div
+              key={`tourist-spot-${index}`}
+              className="col-md-3 col-sm-6 team"
+              style={style}
+            >
+              <div className="thumbnail">
+                <img src={touristSpots[index].img} alt="..." className="team-img" />
+                <div className="caption">
+                  <h4>{touristSpots[index].name}</h4>
+                  <p>{touristSpots[index].job}</p>
                 </div>
-              ))
-            : "loading"}
+              </div>
+            </animated.div>
+          ))}
         </div>
       </div>
     </div>
