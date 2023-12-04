@@ -1,5 +1,6 @@
 import React from "react";
 import { useTrail, animated } from "@react-spring/web";
+import AdministrarHabitaciones from "./AdministrarHabitacion";
 
 export const Team = (props) => {
   const touristSpots = props.data || [];
@@ -38,6 +39,6 @@ export const Team = (props) => {
           ))}
         </div>
       </div>
-    </div>
+      </div>
   );
 };
